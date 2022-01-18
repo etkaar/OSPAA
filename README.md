@@ -1,5 +1,4 @@
 # Protective Open-Source License (POSL)
-Amendment article for popular open-source licenses which assures fair compensation for the authors in cases where the work is used by big tech companies.
 
 # 1.0 Introduction
 
