@@ -21,9 +21,9 @@ Therefore, this is not a license, it is an license amendment article; the origin
 
 You can use this amendment article for any license you feel it would fit for.
 
-> Restriction (Standard OSPAA 1.0): Only for legal entities with a yearly revenue exceeding ten (10) million US-Dollar (or an equivalent of) the license text below is valid with the exception, that in modification of the license, for any right granted there (especially the use, modification and distribution) the author has the right of fair compensation which must be individually agreed. Is the legal entity part of a multinational company, the total revenue of all corporations counts. This restriction does not apply to non-profit organizations. This text must be included in all copies or substantial portions of the source code.
+> Restriction (Standard OSPAA 1.0): Only for legal entities with a yearly revenue exceeding fifty (50) million US-Dollar (or an equivalent of) the license text below is valid with the exception, that in modification of the license, for any right granted there (especially the use, modification and distribution) the author has the right of fair compensation which must be individually agreed. Is the legal entity part of a multinational company, the total revenue of all corporations counts. This restriction does not apply to non-profit organizations. This text must be included in all copies or substantial portions of the source code.
 
-In case you want to modify any part of this text (e.g. the 10 million dollar limit), please change `Standard OSPAA 1.0` to `Modified OSPAA`.
+In case you want to modify any part of this text (e.g. the 50 million dollar limit), please change `Standard OSPAA 1.0` to `Modified OSPAA`.
 
 # 4.0 Example License
 
@@ -33,7 +33,7 @@ As an example, this is the full text of the popular MIT license including the St
 >
 > Copyright (c) \<year\> \<copyright holders\>
 >
-> Restriction (Standard OSPAA 1.0): Only for legal entities with a yearly revenue exceeding ten (10) million US-Dollar (or an equivalent of) the license text below is valid with the exception, that in modification of the license, for any right granted there (especially the use, modification and distribution) the author has the right of fair compensation which must be individually agreed. Is the legal entity part of a multinational company, the total revenue of all corporations counts. This restriction does not apply to non-profit organizations. This text must be included in all copies or substantial portions of the source code.
+> Restriction (Standard OSPAA 1.0): Only for legal entities with a yearly revenue exceeding fifty (50) million US-Dollar (or an equivalent of) the license text below is valid with the exception, that in modification of the license, for any right granted there (especially the use, modification and distribution) the author has the right of fair compensation which must be individually agreed. Is the legal entity part of a multinational company, the total revenue of all corporations counts. This restriction does not apply to non-profit organizations. This text must be included in all copies or substantial portions of the source code.
 >
 > Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 >
